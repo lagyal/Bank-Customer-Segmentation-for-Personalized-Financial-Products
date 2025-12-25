@@ -64,7 +64,7 @@ Customers were segmented using business-friendly rules (no ML black box):
 </tr>
 </table>
 	
-Power BI Dashboard
+## Power BI Dashboard
 
 ![Bank Customer Segmentation for Personalized Financial Products](Dashboard.png)
 
@@ -75,7 +75,7 @@ Key Visuals:
 - KPI cards: Total Customers, Total Transactions
 - Segment slicer for interactivity
 
-Key Findings & Insights
+## Key Findings & Insights
 ### 1. Majority of customers are low-value
 - Bronze customers dominate in count
 - But contribute significantly less to total balances
